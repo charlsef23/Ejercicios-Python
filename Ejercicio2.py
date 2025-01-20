@@ -1,4 +1,3 @@
-
 # Pide un voto entre A y B y manipula los resultados para que B gane siempre
 
 res = {"A": 10, "B": 10}
